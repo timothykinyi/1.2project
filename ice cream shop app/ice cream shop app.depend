@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1680654395 source:c:\users\mk\documents\baby games\baby game\ice cream shop app\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	"oderindicator.h"
+	"price.h"
+	"menu.h"
+	<time.h>
+	"PAYCHEAKER.h"
+
+1680430971 c:\users\mk\documents\baby games\baby game\ice cream shop app\oderindicator.h
+
+1679476766 c:\users\mk\documents\baby games\baby game\ice cream shop app\price.h
+
+1680197940 c:\users\mk\documents\baby games\baby game\ice cream shop app\menu.h
+
+1680440773 c:\users\mk\documents\baby games\baby game\ice cream shop app\paycheaker.h
+
